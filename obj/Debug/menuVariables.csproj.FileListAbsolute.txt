@@ -1,0 +1,7 @@
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\Trabajo practico-Variables\menuVariables\menuVariables\bin\Debug\menuVariables.exe.config
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\Trabajo practico-Variables\menuVariables\menuVariables\bin\Debug\menuVariables.exe
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\Trabajo practico-Variables\menuVariables\menuVariables\bin\Debug\menuVariables.pdb
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\Trabajo practico-Variables\menuVariables\menuVariables\obj\Debug\menuVariables.csproj.AssemblyReference.cache
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\Trabajo practico-Variables\menuVariables\menuVariables\obj\Debug\menuVariables.csproj.CoreCompileInputs.cache
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\Trabajo practico-Variables\menuVariables\menuVariables\obj\Debug\menuVariables.exe
+D:\Martin\INSTIUTTO IDRA\Introducción a la programación\TRABAJOS PRACTICOS\Trabajo practico-Variables\menuVariables\menuVariables\obj\Debug\menuVariables.pdb
